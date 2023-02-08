@@ -20,5 +20,8 @@ export const theme = {
       xhuge: '6.2rem',
     }
   },
+  media: {
+    lteMedium: '(max-width:768px)'
+  }
 
 }
